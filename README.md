@@ -1,3 +1,5 @@
 # Flutter-ChatGPTBot
 flutter chat bot using chatGPT package/api
-![eg](https://user-images.githubusercontent.com/52168181/219851755-87aee00c-8c2a-43eb-8ad3-3b0ccf8ecdec.gif)
+[eg.webm](https://user-images.githubusercontent.com/52168181/219851812-f988ca1e-eaea-4af1-9b1f-470dedf48437.webm)
+
+
